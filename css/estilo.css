@@ -1,0 +1,100 @@
+#titulo1{
+    background-image: url(https://image.freepik.com/fotos-gratis/fundo-tecnologico-abstrato-que-consiste-em-um-conjunto-de-hexagonos_76080-5659.jpg);
+    border: 3px solid rgb(0, 0, 0);/* Borda em volta do parágrafo (quadrado) */          
+    border-radius: 10px;
+    display: inline-block;
+    /*height: 100px; Definindo a altura do elemento: */
+    margin: 10px;/* Definindo espaço entre os elementos vizinhos e a borda do elemento: */                
+    padding: 10px;   
+    width: 600px;/* Definindo a largura do elemento: */  
+    -webkit-text-stroke-width: 0.5px; /* largura da borda */
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+}
+#desc{
+    margin: 2px;
+    font-weight: bolder;
+}
+#titulo2{
+    background-color: rgb(64, 217, 255);
+    border: 3px solid rgb(0, 0, 0);/* Borda em volta do parágrafo (quadrado) */          
+    border-radius: 10px;
+}
+#lista{
+    background-color: rgba(209, 209, 250, 0.664);
+    font-weight: bolder;
+}
+#titulo3{
+    background-color: rgb(64, 217, 255);
+    border: 2px solid rgb(0, 0, 0);/* Borda em volta do parágrafo (quadrado) */          
+    border-radius: 10px;
+}
+#titulo4{
+    background-color: rgb(64, 217, 255);
+    border: 2px solid rgb(0, 0, 0);/* Borda em volta do parágrafo (quadrado) */          
+    border-radius: 10px;
+}
+#titulo5{
+    background-color: rgb(64, 217, 255);
+    border: 2px solid rgb(0, 0, 0);/* Borda em volta do parágrafo (quadrado) */          
+    border-radius: 10px;
+}
+#titulo6{
+    background-color: rgb(64, 217, 255);
+    border: 2px solid rgb(0, 0, 0);/* Borda em volta do parágrafo (quadrado) */          
+    border-radius: 10px;
+}
+#titulo7{
+    background-color: rgb(64, 217, 255);
+    border: 2px solid rgb(0, 0, 0);/* Borda em volta do parágrafo (quadrado) */          
+    border-radius: 10px
+}
+#desc1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+#desc2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.desc3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+#desc4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+#desc5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+#contato{
+    background-color: rgb(64, 217, 255);
+    border: 3px solid rgb(0, 0, 0);/* Borda em volta do parágrafo (quadrado) */          
+    border-radius: 10px;
+    height: 68px;
+    width: 300px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    
+}
+#contato1{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+#corpo{
+    background-image: url(https://i.pinimg.com/736x/ba/40/54/ba40542ba96fb2bb3e9fb1f554c3ca16.jpg);
+}
